@@ -9,7 +9,7 @@ D33 - D46 非監督式機器學習
 
 D47 - D50 機器學習調整參數  
 
-Kaggle Fraud Detection Competition  
+Kaggle Fraud Detection Competition  (Ranked 9th)  
 
 D54 - D62 機器學習基礎模型建立  
 
